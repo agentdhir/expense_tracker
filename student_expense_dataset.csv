@@ -1,0 +1,80 @@
+date,amount,category,subcategory,spending_advice
+01-01-2026,80,Food,Restaurant,Reduce
+02-01-2026,40,Food,Snacks,Acceptable
+03-01-2026,30,Food,Beverages,Acceptable
+05-01-2026,120,Travel,Cab,Acceptable
+05-01-2026,50,Food,Street Food,Acceptable
+06-01-2026,60,Food,Restaurant,Reduce
+07-01-2026,25,Food,Snacks,Acceptable
+08-01-2026,40,Travel,Bus/Metro,Essential
+10-01-2026,150,Shopping,Accessories,Reduce
+11-01-2026,70,Food,Street Food,Acceptable
+12-01-2026,30,Food,Beverages,Acceptable
+14-01-2026,200,Education,Books,Essential
+15-01-2026,40,Food,Snacks,Acceptable
+16-01-2026,90,Entertainment,Movies,Reduce
+17-01-2026,35,Food,Beverages,Acceptable
+18-01-2026,120,Shopping,Clothes,Reduce
+19-01-2026,40,Travel,Bus/Metro,Essential
+20-01-2026,60,Food,Restaurant,Reduce
+21-01-2026,25,Food,Snacks,Acceptable
+23-01-2026,180,Entertainment,Parties,Reduce
+24-01-2026,40,Food,Street Food,Acceptable
+25-01-2026,90,Addiction,Smoking,Reduce
+26-01-2026,50,Food,Restaurant,Reduce
+27-01-2026,30,Food,Beverages,Acceptable
+28-01-2026,120,Education,Courses,Essential
+30-01-2026,40,Travel,Bus/Metro,Essential
+31-01-2026,25,Food,Snacks,Acceptable
+
+01-02-2026,60,Food,Restaurant,Reduce
+02-02-2026,40,Food,Snacks,Acceptable
+04-02-2026,40,Travel,Bus/Metro,Essential
+05-02-2026,120,Shopping,Accessories,Reduce
+06-02-2026,30,Food,Beverages,Acceptable
+07-02-2026,80,Food,Street Food,Acceptable
+08-02-2026,25,Food,Snacks,Acceptable
+10-02-2026,60,Entertainment,Gaming,Reduce
+11-02-2026,40,Travel,Bus/Metro,Essential
+12-02-2026,70,Food,Restaurant,Reduce
+14-02-2026,200,Entertainment,Parties,Reduce
+15-02-2026,40,Food,Street Food,Acceptable
+16-02-2026,30,Food,Beverages,Acceptable
+17-02-2026,90,Addiction,Smoking,Reduce
+18-02-2026,50,Food,Restaurant,Reduce
+19-02-2026,25,Food,Snacks,Acceptable
+20-02-2026,150,Shopping,Clothes,Reduce
+22-02-2026,40,Travel,Bus/Metro,Essential
+23-02-2026,60,Food,Restaurant,Reduce
+24-02-2026,30,Food,Beverages,Acceptable
+25-02-2026,180,Education,Books,Essential
+26-02-2026,40,Food,Street Food,Acceptable
+27-02-2026,120,Education,Courses,Essential
+28-02-2026,45,Other,Miscellaneous,Acceptable
+
+01-03-2026,80,Food,Restaurant,Reduce
+02-03-2026,40,Food,Snacks,Acceptable
+03-03-2026,30,Food,Beverages,Acceptable
+04-03-2026,40,Travel,Bus/Metro,Essential
+06-03-2026,120,Shopping,Accessories,Reduce
+07-03-2026,70,Food,Street Food,Acceptable
+08-03-2026,25,Food,Snacks,Acceptable
+09-03-2026,60,Entertainment,Gaming,Reduce
+10-03-2026,40,Travel,Bus/Metro,Essential
+12-03-2026,200,Entertainment,Parties,Reduce
+13-03-2026,40,Food,Street Food,Acceptable
+14-03-2026,30,Food,Beverages,Acceptable
+15-03-2026,90,Addiction,Smoking,Reduce
+16-03-2026,60,Food,Restaurant,Reduce
+17-03-2026,25,Food,Snacks,Acceptable
+18-03-2026,150,Shopping,Clothes,Reduce
+19-03-2026,40,Travel,Bus/Metro,Essential
+20-03-2026,70,Food,Restaurant,Reduce
+21-03-2026,30,Food,Beverages,Acceptable
+23-03-2026,180,Education,Books,Essential
+24-03-2026,40,Food,Street Food,Acceptable
+25-03-2026,120,Education,Courses,Essential
+27-03-2026,60,Entertainment,Movies,Reduce
+28-03-2026,45,Other,Miscellaneous,Acceptable
+30-03-2026,40,Travel,Bus/Metro,Essential
+31-03-2026,25,Food,Snacks,Acceptable
