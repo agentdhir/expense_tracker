@@ -1,7 +1,7 @@
 import pandas as pd
 from datetime import datetime
 
-df = pd.read_csv("C:\\Users\\HP\\Desktop\\expense_app\\student_expense_dataset.csv")
+df = pd.read_csv("student_expense_dataset.csv")
 
 # Convert date
 df["date"] = pd.to_datetime(df["date"], format="%d-%m-%Y")
@@ -17,8 +17,8 @@ current_month = datetime.now().month
 # Average monthly spend
 monthly_spend = df["amount"].sum() / df["date"].dt.month.nunique()
 
-# Months left
-months_left = goal_target_month - current_month
+# Months left (a target month already passed this year rolls over to next year)
+months_left = (goal_target_month - current_month) % 12 or 12
 
 required_monthly_saving = saving_goal / months_left
 

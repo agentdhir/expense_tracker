@@ -4,7 +4,7 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.preprocessing import LabelEncoder
 from sklearn.metrics import classification_report
 
-df = pd.read_csv('C:\\Users\\HP\\Desktop\\expense_app\\student_expense_dataset.csv')
+df = pd.read_csv('student_expense_dataset.csv')
 
 # Encode categorical columns
 le_category = LabelEncoder()

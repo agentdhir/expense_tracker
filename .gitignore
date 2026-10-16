@@ -1,0 +1,10 @@
+# Secrets - never commit
+serviceAccountKey.json
+*.json.key
+.env
+
+# Generated
+models/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
